@@ -9,5 +9,5 @@ function resultado(){
     fahrenheint = (celcius * 9/5) + 32
     console.log(fahrenheint)
 
-   // resposta.innerHTML('Está essa temperatura em fahrenheint: ' + fahrenheint)
+   resposta.innerHTML = (fahrenheint) 
 }
